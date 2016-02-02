@@ -1,5 +1,7 @@
 // create a canvas
 size(400, 400);
-
-// create a circle
-ellipse(200, 200, 50, 50);
+//Make a white background
+background(255);
+//Make a black background
+fill(0);
+rect(200, 0, 200, 400);
