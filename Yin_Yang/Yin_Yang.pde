@@ -15,3 +15,17 @@ fill(0); {
   noStroke();
   ellipse(200, 300, 200, 200);
 }
+//Make black eye
+fill(0); {
+  noStroke();
+  ellipse(200, 100, 50, 50);
+}
+//Make white eye
+fill(255); {
+  noStroke();
+  ellipse(200, 300, 50, 50);
+}
+//Make big circle
+noFill(); {
+  ellipse(200, 200, 400, 400);
+}
